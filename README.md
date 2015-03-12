@@ -1,4 +1,7 @@
 # copy-of
+
+[![Build](https://travis-ci.org/jwhitfieldseed/copy-of.svg?branch=master)](https://travis-ci.org/jwhitfieldseed/copy-of)
+
 A function for naming copies of things.
 
     var copyOf = require('copy-of');
