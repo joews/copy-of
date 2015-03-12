@@ -1,0 +1,29 @@
+{
+  "name": "copy-of",
+  "version": "1.0.0",
+  "description": "A function for naming copies of things",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jwhitfieldseed/copy-of"
+  },
+  "keywords": [
+    "name",
+    "copy"
+  ],
+  "contributors": [
+    "Joe Whitfield-Seed <joeseed86@gmail.com>",
+    "James Ivings"
+  ]
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwhitfieldseed/copy-of/issues"
+  },
+  "homepage": "https://github.com/jwhitfieldseed/copy-of",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  }
+}
